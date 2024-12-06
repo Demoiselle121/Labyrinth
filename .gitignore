@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+## Eclipse
+.classpath
+.project
+.settings
+
+## MAVEN
+dependency-reduced-pom.xml

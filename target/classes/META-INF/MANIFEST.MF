@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 13
+Class-Path: maze-server-v2019.4.jar javafx-controls-11.0.2.jar javafx-co
+ ntrols-11.0.2-win.jar javafx-graphics-11.0.2.jar javafx-graphics-11.0.2
+ -win.jar javafx-base-11.0.2.jar javafx-base-11.0.2-win.jar javafx-fxml-
+ 11.0.2.jar javafx-fxml-11.0.2-win.jar javafx-media-11.0.2.jar javafx-me
+ dia-11.0.2-win.jar jaxb-api-2.3.0.jar jaxb-runtime-2.3.2.jar jakarta.xm
+ l.bind-api-2.3.2.jar txw2-2.3.2.jar istack-commons-runtime-3.0.8.jar st
+ ax-ex-1.8.1.jar FastInfoset-1.2.16.jar jakarta.activation-api-1.2.1.jar
+  logback-classic-1.2.3.jar logback-core-1.2.3.jar slf4j-api-1.7.25.jar 
+ commons-cli-1.4.jar
+Main-Class: de.fhac.mazenet.client.Mazenet_Client.Main
+Created-By: Maven Integration for Eclipse
+
