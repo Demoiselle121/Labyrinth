@@ -37,11 +37,3 @@ mvn [compile] exec:java [-Dexec.args="localhost"]
 
 Die jar-Dateien der aktuellen und vorherigen Releases findet man unter [Tags](../../target)
 ==> **fur die ausführbare Datei (Jar):** java -jar Mazenet-Client-0.0.1-SNAPSHOT.jar localhost 
-
-
-# Credits
-
-* Application icon made by [Freepik](http://www.freepik.com) from [www.flaticon.com](http://www.flaticon.com) is licensed by [CC 3.0 BY](href="http://creativecommons.org/licenses/by/3.0/)
-* A lot of the treasure-icons taken from [numix-Project](https://numixproject.org/)
-* Gameidea orginally from [Ravensburger](https://www.ravensburger.de/produkte/spiele/familienspiele/das-verrueckte-labyrinth-26446/index.html)
-* Music: "Cold Sober" Kevin MacLeod (incompetech.com) Licensed under [Creative Commons: By Attribution 3.0 License ](http://creativecommons.org/licenses/by/3.0/)
